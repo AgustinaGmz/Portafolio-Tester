@@ -15,7 +15,8 @@ Este repositorio representa mi portfolio como Tester de Software
 Aquí escribes tu presentación...
 
 ## CV
-Aquí va tu CV o enlace...
+Puede descargar mi CV como PDF desde mi Google Drive [Aquí](#libros-de-testing-que-he-leido)
+
 
 ## Habilidades
 Lista de habilidades...
